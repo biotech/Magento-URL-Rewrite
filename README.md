@@ -9,4 +9,4 @@ More details about Magento URL rewrite duplicates
 - <a href="https://github.com/magento/bugathon_march_2013/issues/265">Catalog url rewrites and duplicate url_keys.</a>
 - Created based on <a href="https://gist.github.com/edannenberg/5310008">Fixes the catalog url rewrite indexer in Magento 1.7.x-1.9.x</a>
 - <a href="http://www.atwix.com/magento/duplicated-product-url-keys-in-community-edition/">Duplicated product URL keys in Magento Community Edition</a> (there is another solution described)
-- Magento Enterprise patch whic fix the same <a href="https://gist.github.com/piotrekkaminski/c348538ca91ba35773be">PATCH_SUPEE-389_EE_1.12.0.2_v2.sh</a>
+- Magento Enterprise patch which fix the same <a href="https://gist.github.com/piotrekkaminski/c348538ca91ba35773be">PATCH_SUPEE-389_EE_1.12.0.2_v2.sh</a>
