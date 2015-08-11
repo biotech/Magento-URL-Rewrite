@@ -1,6 +1,8 @@
 # Magento-URL-Rewrite
 Fix duplicated and trash rewrites in default Magento URL rewrite system (core_url_rewrite table)
 
+This is just local rewrite of app/code/local/Mage/Catalog/Model/Url.php - copy to your Magento root folder, clean cache and run catalog url reindex. 
+
 More details about Magento URL rewrite duplicates
 - <a href="http://firebearstudio.com/blog/magento-url-reindex-core_url_rewrite-duplicates-patch.html">Magento URL reindex (core_url_rewrite) duplicates patch</a>
 - <a href="https://github.com/magento/bugathon_march_2013/issues/265">Catalog url rewrites and duplicate url_keys.</a>
